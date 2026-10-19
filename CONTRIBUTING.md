@@ -48,7 +48,7 @@ to suggest features or improvements to the engine.
 
 Please refer to these links for detailed guides on workflow:
 (credit to Godot for these fantastic workflow guides)
--	[Code Style](https://docs.redotengine.org/en/stable/contributing/development/code_style_guidelines.html)
+-	[Code Style](https://docs.redotengine.org/en/Contributing/Development/code_style_guidelines#code-style-guidelines)
 -	[PR Workflow](https://docs.redotengine.org/en/latest/contributing/workflow/pr_workflow.html)
 -	[PR Review](https://docs.redotengine.org/en/latest/contributing/workflow/pr_review_guidelines.html)
 
